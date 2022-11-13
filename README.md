@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @LitWorker
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-LitWorker/LitWorker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m @LitWorker
+------
+我叫烟雨，目标开发燃烧的作品，故取名为Lit-Worker
+目前是一个小专科生，目标成为全能boy
